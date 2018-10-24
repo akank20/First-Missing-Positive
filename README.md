@@ -11,3 +11,8 @@ Output: 2
 Input: [7,8,9,11,12]
 Output: 1
 ```
+## Example 3:
+```
+Input: [1,3,0]
+Output: 2
+```
